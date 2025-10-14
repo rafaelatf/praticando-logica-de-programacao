@@ -45,7 +45,7 @@ Simulação de uma loja de aluguel de jogos, praticando lógica, organização d
 ---
 
 ## ✨ Objetivo
-Esses projetos fazem parte da minha jornada de aprendizado na **Alura**, com o objetivo de aprimorar minha **lógica de programação** e consolidar a base para o desenvolvimento front-end.
+Esses projetos fazem parte da minha jornada de aprendizado na **Alura**, com o objetivo de aprimorar minha **lógica de programação** e consolidar a base para o desenvolvimento front-end e back-end.
 
 ---
 
