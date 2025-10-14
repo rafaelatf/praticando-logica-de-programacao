@@ -15,7 +15,7 @@ Simula a compra e controle de ingressos de eventos, aplicando conceitos de vari�
 * **Condicionais (`if`):** Determinar qual função chamar com base em variáveis.
 * **Tipos de Dados:** Uso de `parseInt()` para conversão de `String` para número inteiro.
 
-![Ingresso Online](https://github.com/rafaelatf/praticando-logica-de-programacao/blob/main/4f49cf14-5d45-47c8-9769-5cdeda776836.png)
+![Ingresso Online](./assets/4f49cf14-5d45-47c8-9769-5cdeda776836.png)
 
 ---
 
@@ -27,7 +27,7 @@ Exercício para praticar arrays, laços e soma de valores. O programa adiciona e
 * **Strings:** Utilização das funções `split()` para separar trechos de texto.
 * **Template String:** Concatenação eficiente de variáveis em strings para exibição.
 
-![Carrinho de Compras](https://github.com/rafaelatf/praticando-logica-de-programacao/blob/main/650800e1-d215-44fe-8869-d4b9fb1340ef.png)
+![Carrinho de Compras](./assets/650800e1-d215-44fe-8869-d4b9fb1340ef.png)
 
 ---
 
@@ -40,7 +40,7 @@ Gera números aleatórios de forma dinâmica, explorando funções e manipulaç�
 * **Manipulação de DOM e CSS:** Uso de `classList.contains()`, `classList.remove()`, e `classList.add()` para alterar o estilo (status) de botões.
 * **Funções:** `document.getElementById()`, `parseInt()`, e uso de bibliotecas externas para sorteio.
 
-![Sorteador de Números](https://github.com/rafaelatf/praticando-logica-de-programacao/blob/main/99897372-5fe0-4858-b01d-871aadc95a82.png)
+![Sorteador de Números](./assets/99897372-5fe0-4858-b01d-871aadc95a82.png)
 
 ---
 
@@ -53,7 +53,7 @@ Programa que sorteia automaticamente os pares de amigo secreto, aplicando lógic
 * **Controle de Fluxo:** Interrupção de função com `return`.
 * **Bibliotecas:** Utilização de código de terceiros para realizar o embaralhamento (shuffle) de um array.
 
-![Amigo Secreto](https://github.com/rafaelatf/praticando-logica-de-programacao/blob/main/c056c0c5-7a25-496d-930e-a3af1320bf90.png)
+![Amigo Secreto](./assets/c056c0c5-7a25-496d-930e-a3af1320bf90.png)
 
 ---
 
@@ -66,7 +66,7 @@ Simulação de uma loja de aluguel de jogos, praticando lógica, organização d
 * **Manipulação de CSS:** Uso de `classList.contains()`, `classList.remove()`, e `classList.add()` para aplicar e remover classes CSS que indicam o status de alugado/disponível.
 * **Organização de Código:** Análise de estrutura HTML e planejamento da lógica JavaScript.
 
-![AluGames](https://github.com/rafaelatf/praticando-logica-de-programacao/blob/main/c3befd76-8948-41c3-9c2f-42ca6c6d1714.png)
+![AluGames](./assets/c3befd76-8948-41c3-9c2f-42ca6c6d1714.png)
 
 ---
 
@@ -78,7 +78,7 @@ Simulação de uma loja de aluguel de jogos, praticando lógica, organização d
 ---
 
 ## ✨ Objetivo
-Esses projetos fazem parte da minha jornada de aprendizado na **Alura**, com o objetivo de aprimorar minha **lógica de programação** e consolidar a base para o desenvolvimento front-end e back-end, aplicando conceitos como: **variáveis, funções, condicionais, laços de repetição, arrays e manipulação do DOM**.
+Esses projetos fazem parte da minha jornada de aprendizado na **Alura**, com o objetivo de aprimorar minha **lógica de programação** e consolidar a base para o desenvolvimento front-end, aplicando conceitos como: **variáveis, funções, condicionais, laços de repetição, arrays e manipulação do DOM**.
 
 ---
 
